@@ -1,6 +1,6 @@
 # README
 
-This repository contains all the code used to generate the analytical expressions and the figures found in the paper *Quantum error correction for multiparameter metrology* by Mauricio Gutiérrez, Chiranjib Mukhopadhyay, Victor Montenegro, and Abolfazl Bayat.
+This repository contains all the codes used to generate the analytical expressions and the figures found in the paper *Quantum error correction for multiparameter metrology* by Mauricio Gutiérrez, Chiranjib Mukhopadhyay, Victor Montenegro, and Abolfazl Bayat.
 
 # Overview
 
